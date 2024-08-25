@@ -9,10 +9,10 @@ There are 2 parts to Notebook 0:
 2. Get [Get CodePost and GitHub Set Up](https://codepost.io/signup/join?code=Y1CXT0NXF8)
    
 
-### Part 1: Fill out the [Introductory Questionnaire](https://tinyurl.com/3t2ustza)
+### Part 1: Fill out the [Introductory Questionnaire](https://forms.gle/f1gbhRTJtbXiA33z7)
 This questionnaire is short and sweet and will help me to get to know you a little bit.
 ### Part 2: Get CodePost and GitHub Set Up
-#### Part 2.1 [Join our Codepost](https://codepost.io/signup/join?code=1CA3HRUJH4)
+#### Part 2.1 [Join our Codepost](https://codepost.io/signup/join?code=Y1CXT0NXF8)
 We will be using Codepost in this course for assignments i.e., notebooks and projects for this course. Use this link in the heading to link your Codepost account. 
 #### Part 2.2: [Sign in or sign up for GitHub](https://github.com/)
 (Optional) I will be using GitHub in this course for assignment instructions. GitHub is an industry-standard tool for managing repositories (folders) of code. It can be a little bit tricky to get the hang of, but I'll provide plenty of demonstrations on how to use GitHub within the context of this class. I encourage you to create your GitHub account unless you already have one.
