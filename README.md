@@ -1,11 +1,11 @@
-# CS167: Notebook 0
+# CS167 (Fall'24): Notebook 0
 For all notebooks, I will include the instructions in the README.md file (the file you see when you open up a repository on GitHub, which you are reading right now). 
 
 > Most Notebooks will also have a starter code in the repository (which you can generally see in the section above this text). The starter code generally provides a push in the right direction as well as some organization for the assignment. However, this assignment doesn't really have any code associated with it, so it will just live as a README file. 
 
 ## Overview:
 There are 2 parts to Notebook 0: 
-1. Fill out the [Introductory Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScQ3f0B_l98zfv8YVmJheIt5Rkr4XF4cz1-BwZtjAhZnoruCQ/viewform)
+1. Fill out the [Introductory Questionnaire](https://forms.gle/f1gbhRTJtbXiA33z7)
 2. Get [Get CodePost and GitHub Set Up](https://codepost.io/signup/join?code=Y1CXT0NXF8)
    
 
